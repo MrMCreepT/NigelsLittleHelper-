@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator",
+  "description": "Static invoice generator with pre-populated credentials, automated 20% tax calculation, client records, localStorage persistence, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
